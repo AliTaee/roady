@@ -1,0 +1,9 @@
+@import url('../node_modules/normalize.css/normalize.css');
+
+html,
+body {
+  background: #212121;
+  color: #fefefe;
+  padding: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
