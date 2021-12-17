@@ -4,4 +4,6 @@ Simple and minimal way to show your important moments, people, learning material
 
 
 # Features
+* Dark Mode
+* Responsive
 # How use it
