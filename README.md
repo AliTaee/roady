@@ -1,5 +1,7 @@
 # My Road Map
 
+![Preview Image](images/screenshot.png?raw=true "Preview Image")
+
 Simple and minimal way to show your important moments, people, learning materials and ... in your work and life.
 
 ## Installation
