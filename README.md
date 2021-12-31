@@ -15,10 +15,13 @@ After installing Node js, open your terminal (command line) in the root director
 After the installation, you can run the command `npm run dev` or `yarn dev` to start the app. It will be served on [http://localhost:3000](http://localhost:3000).
 
 ## Features
+
 * Dark Mode
 * Responsive
 
 ## How use it
+
+Clone and insert your data. feel free to change the project. For example change the design, add your functionality, or use your own favorite liberary or framework like `React`, `Vue`, `Svelte`.
 
 ## Tools Used
 
