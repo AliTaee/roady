@@ -30,3 +30,7 @@ Except `normalize.css`, there are no CSS or JS libraries used for this project. 
 - [Parcel.js](https://parceljs.org/) as the application bundler.
 - Eslint as the linter.
 - Prettier as the code formatter.
+
+## Other things 
+
+- [Yrsa font family](https://fonts.google.com/specimen/Yrsa#standard-styles)
