@@ -1,9 +1,69 @@
 @import url('../node_modules/normalize.css/normalize.css');
 
+:root {
+  --primary: #cdd5d6;
+  --Primary-dark: #9eafb1;
+  --primary-light: #b2c0c0;
+
+  --secondary: #223030;
+  --secondary-light: #4b6363;
+  --secondary-alpha: rgba(158, 175, 177, 0.6);
+
+  --white: #ffffff;
+}
+
 html,
 body {
-  background: #212121;
-  color: #fefefe;
-  padding: 1rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: var(--secondary);
+  background: var(--primary);
+  font-family: 'Yrsa', serif;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 120px;
+
+  max-width: 1440px;
+  height: 248px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.user__name {
+  margin-left: 40px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 58px;
+  margin: 0 0 0 40px;
+}
+
+.user__image {
+  width: 88px;
+  height: 88px;
+  border: 2px solid var(--secondary);
+  border-radius: 24px;
+}
+
+.socials {
+  list-style: none;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+
+  width: 228px;
+  height: 44px;
+}
+
+.socials__link {
+  padding: 5px;
 }
