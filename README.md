@@ -1,4 +1,4 @@
-# My Road Map
+# Roady
 
 ![Preview Image](images/screenshot.png?raw=true "Preview Image")
 
