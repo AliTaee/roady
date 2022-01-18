@@ -1,8 +1,12 @@
 # Roady
 
-![Preview Image](images/screenshot.png?raw=true "Preview Image")
+![Preview Image](images/cover.jpg?raw=true "Preview Image")
+Roady is a ready web page template that you can use it to make your own timelines. Show your important moments, people, learning materials and ... in your work and life by this simple and minimal web page.
 
-Simple and minimal way to show your important moments, people, learning materials and ... in your work and life.
+## Features
+
+* Dark Mode
+* Responsive
 
 ## Installation
 
@@ -13,11 +17,6 @@ After installing Node js, open your terminal (command line) in the root director
 ## Running the App
 
 After the installation, you can run the command `npm run dev` or `yarn dev` to start the app. It will be served on [http://localhost:3000](http://localhost:3000).
-
-## Features
-
-* Dark Mode
-* Responsive
 
 ## How use it
 
@@ -33,4 +32,9 @@ Except `normalize.css`, there are no CSS or JS libraries used for this project. 
 
 ## Other things 
 
+- [Design File](https://www.figma.com/file/h7ZIfNHXVBxQe7mBp5PTCW/Roady?node-id=0%3A1)
 - [Yrsa font family](https://fonts.google.com/specimen/Yrsa#standard-styles)
+
+
+
+Made by ❤️ - [Mohsen Faraji](https://mosnfar.ir) and [Ali Taee](https://alitaee.ir)
