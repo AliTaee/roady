@@ -7,6 +7,7 @@ Roady is a ready web page template that you can use it to make your own timeline
 
 * Dark Mode
 * Responsive
+* Customizable
 
 ## Installation
 
@@ -37,4 +38,4 @@ Except `normalize.css`, there are no CSS or JS libraries used for this project. 
 
 
 
-Made by ❤️ - [Mohsen Faraji](https://mosnfar.ir) and [Ali Taee](https://alitaee.ir)
+Made by ❤️ - [Mohsen Faraji](https://monsfar.ir?utm_source=github&utm_medium=referral&utm_campaign=roady_footer) and [Ali Taee](https://alitaee.ir)
